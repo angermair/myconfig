@@ -1,0 +1,641 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'1
+	/home/florian
+	Videos/
+1493135278
+'H
+	/home/florian/
+	../
+1489673875
+'a
+	/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+1498476938
+'b
+	/home/florian/bin/
+	../
+1494670327
+'h
+	/home/florian/
+	../
+1489673875
+'v
+	/home/florian/work
+	server/
+1495023216
+'z
+	/home/florian/.vifm
+	../
+1489673875
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian
+	zynq/
+60
+d/home/florian/zynq
+	hw/
+5
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	xvhdl.log
+4
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian
+	zynq/
+60
+d/home/florian/zynq
+	hw/
+5
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.ctags
+57
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian/zed
+	fsbl.elf
+4
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.ctags
+57
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.PetaLinux/
+1
+d/home/florian/zynq/hw/hdl
+	xsim.dir/
+1
+d/home/florian
+	.ctags
+59
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.ctags
+59
+d/home/florian/zynq/hw/hdl
+	xsim.dir/
+1
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	test.tcl
+59
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+2
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian
+	zynq/
+35
+d/home/florian/zynq
+	hw/
+5
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	.vim/
+29
+d/home/florian/.vim
+	bundle/
+1
+d/home/florian/.vim/bundle
+	tagbar/
+7
+d/home/florian/.vim/bundle/tagbar
+	autoload/
+2
+d/home/florian/.vim/bundle/tagbar/autoload
+	../
+0
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	Downloads/
+34
+d/home/florian/Downloads
+	xilinx/
+7
+d/home/florian/Downloads/xilinx
+	ug900-vivado-logic-simulation.pdf
+1
+d/home/florian/zynq/hw/hdl
+	xvhdl.log
+4
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	.digilent_dvctbl.txt
+5
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+2
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian
+	.vim/
+29
+d/home/florian/.vim
+	bundle/
+1
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.steam/
+25
+d/home/florian/zynq/hw/hdl
+	.axi_dma_testgen.vhd.swp
+3
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	.vim/
+29
+d/home/florian/.vim
+	mysnippets/
+2
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	.vim/
+29
+d/home/florian/.vim
+	mysnippets/
+2
+d/home/florian/.vim/mysnippets
+	vhdl.snippets
+1
+d/home/florian/zynq/hw/hdl
+	axi_dma_testgen.vhd
+3
+d/home/florian
+	.vim/
+29
+d/home/florian/.vim
+	mysnippets/
+2
+d/home/florian/.vim/mysnippets
+	vhdl.snippets
+1
+d/home/florian/.vim
+	mysnippets/
+2
+d/home/florian/zynq/hw/hdl
+	counter.vhd
+3
+d/home/florian/zynq/hw
+	tb/
+4
+d/home/florian/zynq/hw/tb
+	../
+0
+d/home/florian/zynq/hw
+	tb/
+4
+d/home/florian/zynq
+	hw/
+5
+d/home/florian
+	zynq/
+59
+d/home/florian/zynq
+	scripts/
+7
+d/home/florian/zynq/scripts
+	create_debian_rootfs.sh
+7
+d/home/florian/zynq
+	hw/
+5
+d/home/florian/zynq/hw
+	tb/
+4
+d/home/florian/zynq/hw/tb
+	../
+0
+d/home/florian/zynq/hw
+	hdl/
+3
+d/home/florian/zynq/hw/hdl
+	vivado.log
+7
+d/etc
+	udev/
+4
+d/etc/udev
+	rules.d/
+2
+d/etc/udev/rules.d
+	../
+0
+d/etc/udev
+	rules.d/
+2
+d/etc/udev/rules.d
+	52-xilinx-digilent-usb.rules
+1
+d/etc/udev
+	rules.d/
+2
+d/etc/udev/rules.d
+	52-xilinx-digilent-usb.rules
+1
+d/etc/udev
+	hwdb.d/
+1
+d/etc/udev/hwdb.d
+	../
+0
+d/etc/udev
+	rules.d/
+2
+d/etc/udev/rules.d
+	52-xilinx-digilent-usb.rules
+1
+d/etc/udev
+	rules.d/
+2
+d/etc/udev/rules.d
+	52-xilinx-pcusb.rules
+2
+d
+
+# Right window history (oldest to newest):
+D/
+	home/
+5
+D/home
+	florian/
+1
+D/home/florian
+	../
+0
+D/home
+	../
+0
+D
+
+# Command line history (oldest to newest):
+:cd /usr/share/
+:!xvhdl
+:qjk:jkjkjk:jkjjkjkjkj
+:find
+:gre
+:find te*
+:find main
+:find main*
+:jumps
+:h
+:find main.c
+:grep start_gui
+:grep Product
+:grep main(
+:hi
+:help
+:touch test.txt
+:man touch
+:!man touch
+:!touc
+:view
+:version
+:terminal
+:!terminal
+:mkdir hdl
+:mkdir bd
+:mkdir cfg
+:cd /tftpboot/
+:su gvim
+:sudo gvim
+:!sudo gvim
+:ls -l
+:s
+:chmod
+:cd /srv/
+:Q
+:cd /usr/sbin/
+:set numbers
+:set number
+:set relnumber
+:set relativenumber
+:colorscheme Default
+:cd /etc
+:sudo gvim exports
+:exit
+:mkdir server
+:mkdir client
+:j
+:vifm
+:cd /srv/rootfs/
+:jkjkjkj
+:cd /opt/xilinx/SDK/2016.4
+:cd opt/
+:cd /opt
+:mkdir log
+:m
+:echo root:x:0 > goup
+:!echo root:x:0: >> group
+:mkdir test
+:gvim app.sh
+:!gvim app.sh
+:qa
+:a
+:?
+:q
+:!tmux new-window -t main:+1
+:!tmux new-window -t main
+:cd /
+:set histroy
+:set history
+:hisot
+:file
+:let
+:make
+:mark
+:w
+:highlight
+:history
+:marks
+:mkdir mysnippets
+:pwd
+:cd /etc/
+:touch
+:touch 60-vboxdrv.rules
+
+# Search history (oldest to newest):
+/usr
+/vir
+/downl
+/resolv
+/resol
+/sev
+/s
+/a.
+/workspac
+/proje
+/workspa
+/project
+/workspace
+/def
+/de
+/xin
+/atftp
+/system
+/.tmu
+/.tmux.conf
+/tmux.conf
+/export
+/inetd.conf
+/xinetd.d
+/defalj
+/defaul
+/et
+/w
+/uptime
+/stat
+/mounts
+/dma
+/crontab
+/zljkj
+/hljjjkhkjkjkjk
+/h
+/axi_in
+/expo
+/pass
+/secu
+/secure
+/ssh
+/wor
+/pet
+/dow
+/desktop
+/srv
+/x
+/exports
+/wo
+/pro
+/gi
+/proj
+/test
+/sh
+/hotplug
+/mde
+/init
+/mdev
+/ini
+/ash
+/bash
+/echocjjh
+/echo
+/vim
+/githu
+/script
+/git
+/vifm
+/work
+/down
+/qt
+/ebooks
+/scripts
+/.profile
+/.profil
+/zyn
+/.ctags.conf
+/ze
+/ctag
+/zed
+/tags
+/tag
+/download
+/.ctag
+/.ctags
+/backupctags\
+/group
+/udev
+
+# Prompt history (oldest to newest):
+ptest.vhdl
+ptest-server-v01.c
+ptest-client
+ptest-server
+pwebserver
+pwebserver.c
+plinux.config
+psystem.dts
+pREADME.md
+pj
+puImage_backup
+puImage_well
+puImage
+pfsbl-old.elf
+psystem-top-old.dts
+psystem-top-zed
+psystem-top-zed.dts
+psystem-top.dts
+prootfs_big
+pjkjk
+pclient.c
+ptest.c
+paxi_slave_test_back.vhd
+paxi_slave_test.vhd
+psystem_backup.tcl
+ptst_prg.c
+paxi_dma_testgen.vhd
+pproject_backup
+pO
+po
+pcreate_debian_rootfs.sh
+pjkj
+pjkjujhku
+pbusybox_old.cfg
+pbusybox.config
+ptest-prg
+ptest-prg.c
+pjkjkjkjk
+pflorian
+pjkj:client.o
+pxvhdl.vim
+pctags_backup
+pbackupctags
+pr
+pbackuctags
+p.ctags
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/florian/.vifm/Trash/000_60-vboxdrv.rules
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/florian/.vifm/Trash/000_test.vhd
+	/home/florian/work/app/test.vhd
+t/home/florian/.vifm/Trash/000_xsim.dir
+	/home/florian/zynq/hw/hdl/xsim.dir
+t/home/florian/.vifm/Trash/001_.axi_dma_testgen.vhd.swp
+	/home/florian/zynq/hw/hdl/.axi_dma_testgen.vhd.swp
+t/home/florian/.vifm/Trash/000_xvhdl.log
+	/home/florian/zynq/hw/hdl/xvhdl.log
+t/home/florian/.vifm/Trash/000_xvhdl.pb
+	/home/florian/zynq/hw/hdl/xvhdl.pb
+t/home/florian/.vifm/Trash/000_tags
+	/home/florian/zynq/hw/hdl/tags
+t/home/florian/.vifm/Trash/002_.axi_dma_testgen.vhd.swp
+	/home/florian/zynq/hw/hdl/.axi_dma_testgen.vhd.swp
+t/home/florian/.vifm/Trash/001_tags
+	/home/florian/tags
+t/home/florian/.vifm/Trash/000_.ctags
+	/home/florian/.ctags
+t/home/florian/.vifm/Trash/000_UltiSnips
+	/home/florian/zynq/hw/hdl/UltiSnips
+t/home/florian/.vifm/Trash/000_mysnippets
+	/home/florian/zynq/hw/hdl/mysnippets
+t/home/florian/.vifm/Trash/000_~\.vim\mysnippets
+	/home/florian/zynq/hw/hdl/~\.vim\mysnippets
+t/home/florian/.vifm/Trash/003_.axi_dma_testgen.vhd.swp
+	/home/florian/zynq/hw/hdl/.axi_dma_testgen.vhd.swp
+t/home/florian/.vifm/Trash/001_xsim.dir
+	/home/florian/zynq/hw/hdl/xsim.dir
+t/home/florian/.vifm/Trash/001_xvhdl.log
+	/home/florian/zynq/hw/hdl/xvhdl.log
+t/home/florian/.vifm/Trash/002_tags
+	/home/florian/zynq/hw/hdl/tags
+t/home/florian/.vifm/Trash/001_xvhdl.pb
+	/home/florian/zynq/hw/hdl/xvhdl.pb
+t/home/florian/.vifm/Trash/000_.counter.vhd.swp
+	/home/florian/zynq/hw/hdl/.counter.vhd.swp
+t/home/florian/.vifm/Trash/000_60-vboxdrv.rules
+	/etc/udev/rules.d/60-vboxdrv.rules
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

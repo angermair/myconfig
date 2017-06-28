@@ -1,0 +1,40 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+( araddr_reg, cfg_reg, start_adr_reg	axi_dma_testgen.vhd	/^    process( araddr_reg, cfg_reg, start_adr_reg ) $/;"	p
+( cfg_reg, m_awvalid_reg, m_wvalid_reg, m_adr_reg, m_wid_reg, m_axi_awready, m_rvalid, m_axi_wready, m_wlast	axi_dma_testgen.vhd	/^    process( cfg_reg, m_awvalid_reg, m_wvalid_reg, m_adr_reg, m_wid_reg, m_axi_awready, m_rvalid, m_axi_wready, m_wlast)$/;"	p
+( s_axi_aclk	axi_dma_testgen.vhd	/^    process( s_axi_aclk )$/;"	p
+( s_axi_aclk, s_axi_aresetn	axi_dma_testgen.vhd	/^    process( s_axi_aclk, s_axi_aresetn )$/;"	p
+( s_axi_arready_reg, s_axi_arvalid	axi_dma_testgen.vhd	/^    process( s_axi_arready_reg, s_axi_arvalid )$/;"	p
+( s_axi_arready_reg, s_axi_arvalid, s_axi_rready	axi_dma_testgen.vhd	/^    process( s_axi_arready_reg, s_axi_arvalid, s_axi_rready )$/;"	p
+( s_wvalid, s_axi_awaddr, s_axi_wdata, cfg_reg, start_adr_reg, m_wlast	axi_dma_testgen.vhd	/^    process( s_wvalid, s_axi_awaddr, s_axi_wdata, cfg_reg, start_adr_reg, m_wlast )$/;"	p
+( s_wvalid, s_bvalid_reg, s_axi_bready	axi_dma_testgen.vhd	/^    process( s_wvalid, s_bvalid_reg, s_axi_bready)$/;"	p
+(m_axi_aclk, m_axi_aresetn	axi_dma_testgen.vhd	/^    process(m_axi_aclk, m_axi_aresetn)$/;"	p
+(s_axi_aclk, s_axi_aresetn	axi_dma_testgen.vhd	/^    process(s_axi_aclk, s_axi_aresetn) $/;"	p
+araddr_reg	axi_dma_testgen.vhd	/^    signal araddr_reg         : std_logic_vector(31 downto 0);$/;"	s
+axi_dma_testgen	axi_dma_testgen.vhd	/^entity axi_dma_testgen is$/;"	e
+bresp_dbg	axi_dma_testgen.vhd	/^    signal bresp_dbg        : std_logic_vector(1 downto 0);$/;"	s
+cfg_next	axi_dma_testgen.vhd	/^    signal cfg_next         : std_logic_vector(7 downto 0);$/;"	s
+cfg_reg	axi_dma_testgen.vhd	/^    signal cfg_reg          : std_logic_vector(7 downto 0);$/;"	s
+m_adr_next	axi_dma_testgen.vhd	/^    signal m_adr_next       : std_logic_vector(7 downto 0);$/;"	s
+m_adr_reg	axi_dma_testgen.vhd	/^    signal m_adr_reg        : std_logic_vector(7 downto 0);$/;"	s
+m_awvalid_next	axi_dma_testgen.vhd	/^    signal m_awvalid_next   : std_logic;$/;"	s
+m_awvalid_reg	axi_dma_testgen.vhd	/^    signal m_awvalid_reg    : std_logic;$/;"	s
+m_rvalid	axi_dma_testgen.vhd	/^    signal m_rvalid         : std_logic;$/;"	s
+m_wid_next	axi_dma_testgen.vhd	/^    signal m_wid_next       : std_logic_vector(5 downto 0);$/;"	s
+m_wid_reg	axi_dma_testgen.vhd	/^    signal m_wid_reg        : std_logic_vector(5 downto 0);$/;"	s
+m_wlast	axi_dma_testgen.vhd	/^    signal m_wlast          : std_logic;$/;"	s
+m_wvalid_next	axi_dma_testgen.vhd	/^    signal m_wvalid_next    : std_logic;$/;"	s
+m_wvalid_reg	axi_dma_testgen.vhd	/^    signal m_wvalid_reg     : std_logic;$/;"	s
+s_axi_arready_next	axi_dma_testgen.vhd	/^    signal s_axi_arready_next : std_logic;$/;"	s
+s_axi_arready_reg	axi_dma_testgen.vhd	/^    signal s_axi_arready_reg  : std_logic;$/;"	s
+s_axi_rvalid_next	axi_dma_testgen.vhd	/^    signal s_axi_rvalid_next  : std_logic;$/;"	s
+s_axi_rvalid_reg	axi_dma_testgen.vhd	/^    signal s_axi_rvalid_reg   : std_logic;$/;"	s
+s_bvalid_next	axi_dma_testgen.vhd	/^    signal s_bvalid_next    : std_logic;$/;"	s
+s_bvalid_reg	axi_dma_testgen.vhd	/^    signal s_bvalid_reg     : std_logic;$/;"	s
+s_wvalid	axi_dma_testgen.vhd	/^    signal s_wvalid         : std_logic;$/;"	s
+start_adr_next	axi_dma_testgen.vhd	/^    signal start_adr_next   : std_logic_vector(31 downto 0);$/;"	s
+start_adr_reg	axi_dma_testgen.vhd	/^    signal start_adr_reg    : std_logic_vector(31 downto 0);$/;"	s
